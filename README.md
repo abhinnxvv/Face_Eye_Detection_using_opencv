@@ -1,5 +1,7 @@
 # Face & Eye Detection
 
+![Face & Eye Detection Demo](Result.png)
+
 This Python script utilizes OpenCV to perform real-time face and eye detection in a video feed from a webcam.
 
 ## Requirements
@@ -32,6 +34,8 @@ This Python script utilizes OpenCV to perform real-time face and eye detection i
 - When the script is running, it will open a window displaying the video feed from your webcam.
 - Faces and eyes will be detected in real-time and highlighted with rectangles.
 - Press the 'q' key to quit the program.
+
+
 
 ## Acknowledgements
 
